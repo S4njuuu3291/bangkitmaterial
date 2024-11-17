@@ -1,0 +1,1 @@
+https://www.coursera.org/learn/natural-language-processing-tensorflow/ungradedLab/KJahl/exploring-a-convolutional-network-lab-6/lab?path=%2Flab%2Fworkspaces%2Fauto-e%2Ftree%2Flab_6%2FC3_W3_Lab_6_sarcasm_with_1D_convolutional.ipynb  

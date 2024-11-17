@@ -1,0 +1,1 @@
+https://www.coursera.org/learn/introduction-tensorflow/ungradedLab/JKWav/get-hands-on-and-use-validation-lab-2/lab?path=%2Flab%2Ftree%2Flab_2%2FC1_W4_Lab_2_image_data_preprocessing_with_validation.ipynb

@@ -1,0 +1,1 @@
+https://www.coursera.org/learn/natural-language-processing-tensorflow/ungradedLab/9o0HI/exploring-a-bidirectional-lstm-lab-5/lab?path=%2Flab%2Ftree%2Flab_5%2FC3_W3_Lab_5_sarcasm_with_bi_LSTM.ipynb
