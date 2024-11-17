@@ -1,0 +1,1 @@
+https://www.coursera.org/learn/data-pipelines-tensorflow/programming/zH968/classify-structured-data/lab?path=%2Fnotebooks%2FTFDS-V2-Week3.ipynb
