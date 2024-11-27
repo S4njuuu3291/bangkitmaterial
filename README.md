@@ -34,26 +34,65 @@ Repositori ini menyediakan berbagai materi yang mendukung pembelajaran di Bangki
 Repositori ini mencakup berbagai materi pembelajaran dalam bidang **Machine Learning** dan **Artificial Intelligence**, antara lain:
 
 - **Crash Course on Python**  
-- **Using Python to Interact with OS**  
-- **Belajar Analisis Data dengan Python**  
-- **Linear Algebra for Machine Learning and Data Science**  
-- **Supervised Machine Learning: Regression and Classification**  
-- **Advanced Learning Algorithms**  
-- **Unsupervised Learning, Recommenders, Reinforcement Learning**  
-- **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**  
-- **Convolutional Neural Networks in TensorFlow**  
-- **Natural Language Processing in TensorFlow**  
-- **Sequences, Time Series and Prediction**  
-- **Structuring ML Project**  
-- **Browser-based Models with TensorFlow.js**  
-- **Device-based Models with TensorFlow Lite**  
-- **Data Pipelines with TensorFlow Data Services**  
-- **Custom Models, Layers, and Loss Functions with TensorFlow**  
-- **Custom and Distributed Training with TensorFlow**  
-- **Advanced Computer Vision with TensorFlow**  
-- **Generative AI for Everyone**  
-- **Build Basic Generative Adversarial Networks (GANs)**  
+  Pelajari dasar-dasar bahasa pemrograman Python untuk pemula.
 
+- **Using Python to Interact with OS**  
+  Gunakan Python untuk berinteraksi dengan sistem operasi seperti manajemen file dan proses.
+
+- **Belajar Analisis Data dengan Python**  
+  Teknik analisis data menggunakan Python dan pustaka terkait seperti Pandas dan NumPy.
+
+- **Linear Algebra for Machine Learning and Data Science**  
+  Dasar-dasar aljabar linier yang mendasari banyak teknik dalam Machine Learning dan Data Science.
+
+- **Supervised Machine Learning: Regression and Classification**  
+  Pengenalan pembelajaran terawasi dengan fokus pada regresi dan klasifikasi data.
+
+- **Advanced Learning Algorithms**  
+  Teknik-teknik algoritma pembelajaran mesin lanjutan untuk pemecahan masalah yang lebih kompleks.
+
+- **Unsupervised Learning, Recommenders, Reinforcement Learning**  
+  Eksplorasi pembelajaran tak terawasi, sistem rekomendasi, dan pembelajaran penguatan.
+
+- **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**  
+  Pengenalan TensorFlow untuk aplikasi dalam AI, ML, dan Deep Learning.
+
+- **Convolutional Neural Networks in TensorFlow**  
+  Pembelajaran jaringan saraf konvolusional (CNN) menggunakan TensorFlow untuk pemrosesan citra.
+
+- **Natural Language Processing in TensorFlow**  
+  Teknik pengolahan bahasa alami (NLP) dengan TensorFlow untuk analisis teks.
+
+- **Sequences, Time Series and Prediction**  
+  Metode menangani data urutan dan prediksi berbasis seri waktu.
+
+- **Structuring ML Project**  
+  Cara menyusun dan merancang proyek Machine Learning dengan pendekatan sistematis.
+
+- **Browser-based Models with TensorFlow.js**  
+  Membangun model berbasis web menggunakan TensorFlow.js untuk aplikasi browser.
+
+- **Device-based Models with TensorFlow Lite**  
+  Penggunaan TensorFlow Lite untuk membangun model yang berjalan di perangkat mobile.
+
+- **Data Pipelines with TensorFlow Data Services**  
+  Membangun dan mengelola pipeline data untuk Machine Learning menggunakan TensorFlow Data Services.
+
+- **Custom Models, Layers, and Loss Functions with TensorFlow**  
+  Cara membuat model kustom, lapisan, dan fungsi kehilangan di TensorFlow.
+
+- **Custom and Distributed Training with TensorFlow**  
+  Pelatihan model kustom dan terdistribusi menggunakan TensorFlow.
+
+- **Advanced Computer Vision with TensorFlow**  
+  Teknik-teknik lanjutan dalam visi komputer menggunakan TensorFlow.
+
+- **Generative AI for Everyone**  
+  Memahami dan mengaplikasikan AI generatif dalam berbagai bidang.
+
+- **Build Basic Generative Adversarial Networks (GANs)**  
+  Membangun Generative Adversarial Networks (GANs) dasar untuk menghasilkan data sintetis.
+  
 ---
 
 ## 🛠️ **Bagaimana Cara Menggunakan Repositori Ini?**
